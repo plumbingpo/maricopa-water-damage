@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationmaricopa.com/sitemap.xml
